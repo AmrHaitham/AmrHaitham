@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmrHaitham
 - 👀 I’m interested in mobile app development using flutter
-- 🌱 I’m currently learning more about flutter
+- 🌱 I’m currently work as a mobile app developer
 - 📫 if you want to reach me here is my phone number:-0201022216004
 
 <!---
